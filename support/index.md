@@ -28,9 +28,9 @@ and send it to another app.
 
 Colla Pro unlocks premium layouts, extra backgrounds and frames, and
 high-resolution export. Open **Pro** (from the home screen or Settings) to see
-the options: a monthly subscription, a yearly subscription, or a one-time
-"lifetime" purchase. Prices are shown in your local currency before you
-confirm. All billing is handled by the App Store or Google Play.
+it. Colla Pro is a single one-time "lifetime" purchase: you pay once and it
+does not renew. The price is shown in your local currency before you confirm.
+All billing is handled by the App Store or Google Play.
 
 ### I paid but Pro did not unlock. What should I do?
 
@@ -38,9 +38,15 @@ confirm. All billing is handled by the App Store or Google Play.
 2. Open **Restore purchase** (see below) with the same Apple or Google account
    you paid with.
 3. If it still does not unlock, email **diagniq.app@gmail.com** with the store
-   you bought from (App Store or Google Play), the plan (monthly, yearly, or
-   lifetime), and the approximate date of purchase. Do not send card numbers
-   or full receipts.
+   you bought from (App Store or Google Play) and the approximate date of
+   purchase. Do not send card numbers or full receipts.
+
+### The app says my purchase is awaiting approval. What does that mean?
+
+The store has your request but has not charged for it yet — most often
+because the account uses Ask to Buy and a parent or guardian still has to
+approve it. Nothing went wrong. Colla Pro unlocks by itself once the purchase
+is approved; if it is declined, nothing is charged.
 
 ### How do I restore a purchase I already made?
 
@@ -48,17 +54,10 @@ Use **Restore purchase** in Settings (or on the Pro screen). Make sure you are
 signed in to the same Apple or Google account you used for the original
 purchase. Restoring relies on that account's records.
 
-### How do I cancel a subscription?
+### Is Colla Pro a subscription? Do I need to cancel anything?
 
-Subscriptions are managed by the store, not inside Colla:
-
-- **iPhone/iPad:** Settings → your name → Subscriptions → Colla.
-- **Android:** Google Play app → Payments & subscriptions → Subscriptions →
-  Colla.
-
-Cancelling stops future renewals. You keep Pro access until the end of the
-period you already paid for. The one-time "lifetime" purchase is not a
-subscription and never renews.
+No. Colla Pro is a one-time purchase. It is not a subscription, it never
+renews, and you are not charged again — so there is nothing to cancel.
 
 ### How do I get a refund?
 
@@ -75,18 +74,25 @@ device photo library. Uninstalling the app removes its local data; on Android
 you can also use Settings → Apps → Colla → Storage → Clear data. On Android,
 this local data is excluded from cloud backup.
 
+The one exception is purchase data. It is processed by RevenueCat, Colla's
+purchase provider, and stored in the United States. See the Privacy Policy,
+section 7.1.
+
 ### What about privacy?
 
 Colla does not upload your photos, has no analytics, shows no ads, and does
 not track you. The only network activity is purchase and entitlement checks
-through RevenueCat and the app stores. See the Privacy Policy for detail.
+through RevenueCat and the app stores. RevenueCat does give the developer
+purchase history and statistics, recorded against an anonymous ID rather than
+your name or email. See the Privacy Policy for detail.
 
 ### How do I make a privacy request or delete my local data?
 
-- **Privacy requests:** email **diagniq.app@gmail.com**. Because Colla has no
-  account and no server, most requests concern purchase data held by
-  RevenueCat, Apple, or Google; we will point you to the right route where
-  needed.
+- **Privacy requests:** email **diagniq.app@gmail.com**. We handle requests
+  about the purchase data RevenueCat processes for Colla ourselves, including
+  deletion. The order number on your App Store or Google Play receipt helps
+  us find your record; if you do not have it, write anyway and we will look
+  for another way. For data held by Apple or Google, contact them.
 - **Delete local data:** uninstalling Colla removes its private storage
   (settings and the "Recent Creations" list) from your device. On Android you
   can also use **Settings → Apps → Colla → Storage → Clear data**. Remove

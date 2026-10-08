@@ -1,6 +1,6 @@
 # Colla — Terms of Use
 
-**Effective date:** 27 August 2026
+**Effective date:** 8 October 2026
 
 **Publisher ("the provider"):** Hakan Gezmeli — Individual Developer
 
@@ -12,8 +12,9 @@
 
 By downloading or using Colla ("the app") you agree to these Terms of Use. If
 you do not agree, do not use the app. Your use of the app is also subject to
-the [Privacy Policy](./privacy.md) and to the terms of the store
-(Apple App Store or Google Play) you installed it from.
+the [Privacy Policy](https://hgezmeli-cell.github.io/colla-legal/privacy/)
+and to the terms of the store (Apple App Store or Google Play) you installed
+it from.
 
 ## 2. What Colla does
 
@@ -68,46 +69,28 @@ Colla is free to download and use for its core collage features. Some features
 are marked "Pro" and require a purchase to unlock (collectively "Colla Pro").
 Which features are Free and which are Pro may change over time.
 
-## 8. Purchases, subscriptions, and billing
+## 8. Purchases and billing
 
-Colla Pro is offered as:
-
-- a **one-time purchase** ("lifetime"), and
-- **auto-renewing subscriptions** billed **monthly** or **yearly**.
+Colla Pro is offered as a single **one-time purchase** ("lifetime"). Colla
+does not sell subscriptions, and nothing renews.
 
 All purchases are made through, and billed by, **Apple** (App Store) or
 **Google** (Google Play), not by the provider.
 
-### 8.1 Prices
+### 8.1 Price
 
-Prices are shown in the app before you buy, in your local currency, as
+The price is shown in the app before you buy, in your local currency, as
 supplied by the store. The provider does not set or display prices anywhere
 else.
 
-### 8.2 Auto-renewing subscriptions
+### 8.2 One-time purchase
 
-A monthly or yearly subscription **renews automatically** for the same period,
-at the then-current price for that plan, and is charged to your App Store or
-Google Play account, **until you cancel**. Cancellation takes effect at the
-end of the current paid period; you keep Pro access until then.
+Colla Pro is a **single one-time payment**. It is **not** a subscription and
+does **not** auto-renew, so there is nothing to cancel. It unlocks the Pro
+features that the purchase covers for the supported lifetime of the app on
+your store account.
 
-### 8.3 Cancellation and management
-
-Manage or cancel a subscription in your store account:
-
-- **iOS:** Settings → your name → Subscriptions.
-- **Android:** Google Play → Payments & subscriptions → Subscriptions.
-
-The provider cannot cancel a store subscription for you.
-
-### 8.4 Lifetime purchase
-
-The "lifetime" option is a **single one-time purchase**. It is **not** a
-subscription and does **not** auto-renew. It unlocks the Pro features that the
-lifetime purchase covers for the supported lifetime of the app on your store
-account.
-
-### 8.5 Refunds
+### 8.3 Refunds
 
 Refunds are handled solely by Apple or Google under the App Store / Google
 Play refund rules and their discretion. The provider cannot issue store
@@ -116,7 +99,7 @@ refunds. Request a refund through:
 - **iOS:** reportaproblem.apple.com
 - **Android:** Google Play refund request flow
 
-### 8.6 Restore purchases
+### 8.4 Restore purchases
 
 If you reinstall the app or move to a new device using the same store account,
 use "Restore purchase" in the app to re-activate Pro. Restoring relies on your
@@ -153,7 +136,7 @@ rights, which are not affected by these Terms.
 
 This licence ends automatically if you breach these Terms, and you may end it
 at any time by deleting the app. Sections that by their nature should survive
-termination (for example sections 3, 4, 6, 8.5, 10, 11, and 13) survive.
+termination (for example sections 3, 4, 6, 8.3, 10, 11, and 13) survive.
 
 ## 13. Governing law and disputes
 
